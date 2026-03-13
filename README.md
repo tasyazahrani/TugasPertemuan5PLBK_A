@@ -99,7 +99,7 @@ src
 
 Menampilkan daftar katalog produk yang diambil dari API.
 
-![Home](./screenshots/home.png)
+![Home](https://i.ibb.co.com/LXC2Pv77/Screenshot-2.png)
 
 ---
 
@@ -107,7 +107,7 @@ Menampilkan daftar katalog produk yang diambil dari API.
 
 Menampilkan detail lengkap produk seperti gambar, deskripsi, dan harga.
 
-![Product Detail](./screenshots/product-detail.png)
+![Product Detail](https://i.ibb.co.com/pHwBqbG/Screenshot-3.png)
 
 ---
 
@@ -115,11 +115,12 @@ Menampilkan detail lengkap produk seperti gambar, deskripsi, dan harga.
 
 Menampilkan produk yang sudah ditambahkan ke keranjang serta total harga.
 
-![Cart](./screenshots/cart.png)
+![Cart](https://i.ibb.co.com/Ng3YhZH5/Screenshot-4.png)
 
 ---
 
 ## Author
 
-Nama : (Isi dengan nama kamu)
+Nama : (Tasya Zahrani)
+NPM : 2308107010006
 Project : Mini E-Commerce React
